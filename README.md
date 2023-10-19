@@ -8,7 +8,8 @@
 ### 나의 역할: 쿠폰, 회원 등급 담당
 ### 목표: 동시성 처리하기 - Lock 사용, synchronized 사용 등, Spring batch 사용해서 대용량 처리하기, JMeter로 성능 테스트하기
 
-### https://mkwkw.tistory.com/102 (일단 이 회고록과 description에 링크로 연결되어있는 발표 자료 참고해주시면 감사드리겠습니다! 빠른 시일 내에 업데이트하도록 하겠습니다!)
+### https://mkwkw.tistory.com/102     
+(일단 이 회고록과 description에 링크로 연결되어있는 발표 자료 참고해주시면 감사드리겠습니다! 빠른 시일 내에 업데이트하도록 하겠습니다!)
 
 <h2><b>tech stack</b></h3>
 <p>

@@ -1,6 +1,5 @@
 # BE
-<br>
-![image](https://github.com/mkwkw/Guerrilla-Commerce/assets/76611903/b68c2204-d930-43fa-80f7-a81529d275a1)
+![image](https://github.com/mkwkw/Guerrilla-Commerce/assets/76611903/6e43b44b-4af9-4219-8e0a-68fac39378c6)
 
 ### 기간: 2023.08.28 ~ 09.22
 ### 개발환경: Java, Spring, AWS EC2/RDS/S3, Rabbit MQ
